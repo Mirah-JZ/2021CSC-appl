@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Notes on 2021 CSC 
 
-You can use the [editor on GitHub](https://github.com/Mirah-JZ/2021CSC-appl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Disclaimer:
+This is based on information on the 2021 application cycle (through UK, Shanghai, Beijing, Wuhan, Chengdu).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# What's covered on CSC websites:
+The overall process and stages of application are documented on CSC websites. These will usually be made public in mid January.
+e.g. On application process and documents 2021:
+[Link](https://www.csc.edu.cn/article/1955)
 
-- Bulleted
-- List
+# What's NOT covered on CSC websites (or 木虫)
+For candidates applying shortly after receiving a degree overseas.
 
-1. Numbered
-2. List
+1) Personal advice: apply to the CSC overseas in March before returning to China.
+e.g.  Applying through the UK consulate:
+[Link](http://england.lxgz.org.cn/publish/portal132/tab6690/info144506.htm)
 
-**Bold** and _Italic_ and `Code` text
+2) If you had returned to China,  then the application to the CSC has to be supported with the nomination from a Chinese institution, normally your employer. 
 
-[Link](url) and ![Image](src)
+You will have to produce evidence of employment. The employment status should be formal, not an internship nor on a probational basis. Evidence typically includes but is not restricted to, a copy of contract and latest 3+ months of matching social security payment records. Specific requirements may not be explicitly laid out on official websites, so, enquiry to local agencies is important. 
+
+The employer will have to produce a reference form as well as something resembling a nomination letter. Details on format vary by province by year, this info is usually made public in February/ March. 
+e.g. Wuhan 2021:  [Link](http://jyt.hubei.gov.cn/zfxxgk/zc_GK2020/qtzdgkwj_GK2020/202103/t20210302_3370919.shtml)       
+Beijing 2021:   
+[Link](https://www.8610hr.cn/docs/hxfw/gplx/pc_gplx.html)
+
+# Other helpful sources of information
+
+[Link](https://zhuanlan.zhihu.com/p/107347132)
+
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mirah-JZ/2021CSC-appl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
