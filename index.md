@@ -4,12 +4,12 @@ Disclaimer:
 This is based on information on the 2021 application cycle (through UK, Shanghai, Beijing, Wuhan, Chengdu).
 
 
-# What's covered on CSC websites:
+### What's covered on CSC websites:
 The overall process and stages of application are documented on CSC websites. These will usually be made public in mid January.
 e.g. On application process and documents 2021:
 [Link](https://www.csc.edu.cn/article/1955)
 
-# What's NOT covered on CSC websites (or 木虫)
+### What's NOT covered on CSC websites (or 木虫)
 For candidates applying shortly after receiving a degree overseas.
 
 1) Personal advice: apply to the CSC overseas in March before returning to China.
@@ -25,7 +25,7 @@ e.g. Wuhan 2021:  [Link](http://jyt.hubei.gov.cn/zfxxgk/zc_GK2020/qtzdgkwj_GK202
 Beijing 2021:   
 [Link](https://www.8610hr.cn/docs/hxfw/gplx/pc_gplx.html)
 
-# Other helpful sources of information
+### Other helpful sources of information
 
 [Link](https://zhuanlan.zhihu.com/p/107347132)
 
