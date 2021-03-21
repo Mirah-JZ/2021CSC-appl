@@ -4,9 +4,6 @@ Disclaimer:
 This is based on information on the 2021 application cycle (through UK, Shanghai, Beijing, Wuhan, Chengdu).
 
 
-
-```markdown
-
 # What's covered on CSC websites:
 The overall process and stages of application are documented on CSC websites. These will usually be made public in mid January.
 e.g. On application process and documents 2021:
@@ -33,6 +30,5 @@ Beijing 2021:
 [Link](https://zhuanlan.zhihu.com/p/107347132)
 
 
-```
 
 
