@@ -18,7 +18,7 @@ e.g.  Applying through the UK consulate:
 
 2) If you had returned to China,  then the application to the CSC has to be supported with the nomination from a Chinese institution, normally your employer. 
 
-You will have to produce evidence of employment. The employment status should be formal, not an internship nor on a probational basis. Evidence typically includes but is not restricted to, a copy of contract and latest 3+ months of matching social security payment records. Specific requirements may not be explicitly laid out on official websites, so, enquiry to local agencies is important. 
+You will have to produce evidence of employment. The employment status should be formal, not an internship nor on a probational basis. Evidence typically includes but is not restricted to, a copy of contract and latest 3+ months of matching social security records. Specific requirements may not be explicitly laid out on official websites, so, enquiry to local agencies may be necessary. 
 
 The employer will have to produce a reference form as well as something resembling a nomination letter. Details on format vary by province by year, this info is usually made public in February/ March. 
 e.g. Wuhan 2021:  [Link](http://jyt.hubei.gov.cn/zfxxgk/zc_GK2020/qtzdgkwj_GK2020/202103/t20210302_3370919.shtml)       
@@ -28,6 +28,7 @@ Beijing 2021:
 ### Other helpful sources of information
 
 [Link](https://zhuanlan.zhihu.com/p/107347132)
+[Link](https://mp.weixin.qq.com/s/ZtUlzPFaR3LbsTcP32yJig)
 
 
 
